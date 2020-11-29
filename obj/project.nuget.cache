@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Vktq9smB0A3sYjCNvkA0/EIb7cxBcws5SmTIcB145L+s0aRbaZA7y/UVXDSkf/FZ/q9cBsScWf4Z5Xyb6Unug==",
+  "success": true,
+  "projectFilePath": "D:\\Game Making Software\\Misc Projects\\Tiperi\\TiperiBezTohoTiperi\\TiperiBezTohoTiperi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patri\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\google.apis.sheets.v4\\1.49.0.2146\\google.apis.sheets.v4.1.49.0.2146.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
